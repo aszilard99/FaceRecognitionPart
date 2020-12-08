@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.recognition
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -6,6 +6,7 @@ import android.util.Size
 import android.view.TextureView
 import android.view.ViewGroup
 import androidx.camera.core.*
+import com.example.myapplication.R
 
 
 class MainActivity : AppCompatActivity() {

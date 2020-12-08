@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.myapplication.recognition
 
 import android.content.Context
 import androidx.camera.core.ImageAnalysis
